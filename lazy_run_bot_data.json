@@ -1,0 +1,47 @@
+{
+  "users": [],
+  "races": [
+    {
+      "id": "novorossiysk_26_apr",
+      "name": "Всекубанская эстафета. Новороссийск",
+      "date": "26 апреля",
+      "participants": [],
+      "drivers": []
+    },
+    {
+      "id": "kazan_3_4_may",
+      "name": "Казанский марафон",
+      "date": "3-4 мая",
+      "participants": [],
+      "drivers": []
+    },
+    {
+      "id": "anapa_17_18_may",
+      "name": "Iron star. Анапа",
+      "date": "17-18 мая",
+      "participants": [],
+      "drivers": []
+    },
+    {
+      "id": "zabeg_rf_24_may",
+      "name": "Забег.РФ",
+      "date": "24 мая",
+      "participants": [],
+      "drivers": []
+    },
+    {
+      "id": "ubezhenskaya_31_may",
+      "name": "Убеженский забег \"Дорогой предков\". Убеженская",
+      "date": "31 мая",
+      "participants": [],
+      "drivers": []
+    },
+    {
+      "id": "green_marathon_31_may",
+      "name": "Зелёный марафон. Краснодар",
+      "date": "31 мая",
+      "participants": [],
+      "drivers": []
+    }
+  ]
+}
